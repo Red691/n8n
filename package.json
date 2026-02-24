@@ -1,0 +1,14 @@
+{
+  "name": "n8n-heroku",
+  "private": true,
+  "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "start": "n8n"
+  },
+  "dependencies": {
+    "n8n": "latest"
+  }
+}
